@@ -13,9 +13,9 @@ brief overview to get everyone on the same page, with lots of links to further r
 
 ## Open Source Projects
 
-![dionysus](https://github.com/mrzv/dionysus)
+[dionysus](https://github.com/mrzv/dionysus)
 
-![kohonen](https://github.com/lmjohns3/kohonen)
+[kohonen](https://github.com/lmjohns3/kohonen)
 
 
 

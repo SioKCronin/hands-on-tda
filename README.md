@@ -1,6 +1,4 @@
-# tda
-
-Hands-on Topological Data Analysis (TDA)
+# Hands-on Topological Data Analysis (TDA)
 
 ## Overview
 

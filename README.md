@@ -1,4 +1,4 @@
-# Hands-on Topological Data Analysis (TDA)
+# Hands-on TDA (Topological Data Analysis)
 
 ## Overview
 

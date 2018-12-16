@@ -15,7 +15,8 @@ brief overview to get everyone on the same page, with lots of links to further r
 
 [dionysus](https://github.com/mrzv/dionysus)
 
+Have there been any published results with this tool?
+
 [kohonen](https://github.com/lmjohns3/kohonen)
 
-
-
+Have there been any published results with this tool?

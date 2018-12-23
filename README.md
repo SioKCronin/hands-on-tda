@@ -1,5 +1,9 @@
 # Hands-on TDA (Topological Data Analysis)
 
+## Objective
+
+What real-world problems can TDA solve, and what open source tools can we use to solve them?
+
 ## Overview
 
 I'm interested in presenting a talk on Topological Data Analysis (TDA); particularly an overview of open source projects,
@@ -13,9 +17,9 @@ brief overview to get everyone on the same page, with lots of links to further r
 
 ## Sample data
 
-[Spatial Data Repository](https://www.kaggle.com/reubencpereira/spatial-data-repo/home) (from Kaggle)
+What question in the Real Estate market can TDA help us solve?
 
-## Open Source Projects
+## Open Source TDA Projects
 
 [dionysus](https://github.com/mrzv/dionysus)
 

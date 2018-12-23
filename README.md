@@ -11,6 +11,10 @@ of resources covering open source tools, successful applications in industry (wi
 implications for engineers.  This talk will not dive too deep into the broader domain of topology, but will include a 
 brief overview to get everyone on the same page, with lots of links to further reading/exploration. 
 
+## Sample data
+
+[Spatial Data Repository](https://www.kaggle.com/reubencpereira/spatial-data-repo/home) (from Kaggle)
+
 ## Open Source Projects
 
 [dionysus](https://github.com/mrzv/dionysus)
